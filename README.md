@@ -13,4 +13,11 @@ PracticoJS
 - primer paso: deinir las formula 
 - segundo paso: implementar las formulas en js 
 - tercer paso: crear funciones 
-- cuarto paso: integrar js con html  
+- cuarto paso: integrar js con html 
+
+## Taller 3 promedio, mediana y moda
+- primer paso: deinir las formula 
+- segundo paso: implementar las formulas en js 
+- tercer paso: crear funciones 
+- cuarto paso: integrar js con html 
+
